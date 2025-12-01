@@ -35,3 +35,7 @@ Aplikasi Next.js berbasis AI yang membantu merchant e-commerce membuat deskripsi
    NEXT_PUBLIC_GEMINI_API_KEY=your_api_key_here
 3. Jalankan `npm install` lalu `npm run dev`.
 4. Upload foto produk apa saja, dan lihat hasilnya
+
+
+<img width="1366" height="768" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/74477990-8a43-46dc-bae5-87c55a0561e5" />
+<img width="1366" height="768" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/1bdf9ccf-ca45-430e-b70a-0f7112406546" />
